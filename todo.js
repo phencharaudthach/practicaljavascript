@@ -1,4 +1,4 @@
-var todos = ['item 1', 'item2','item3'];
+var todos = ['item1', 'item2','item3'];
 
 // It should have a function to display todos.
 //
